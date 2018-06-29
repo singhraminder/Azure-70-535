@@ -6,7 +6,15 @@ Candidates for this exam define the appropriate cloud native, cloud migration, a
 
 ## 1. Design Compute Infrastructure (20-25%) 
 ### 1.a Design solutions using virtual machines (VMs) 
-Design VM deployments by leveraging availability sets, fault domains, and update domains in Azure; use web app for containers; design VM Scale Sets; design for compute-intensive tasks using Azure Batch and Azure Batch AI; define a migration strategy from cloud services; determine when to use reserved instances; design for VMs in a DevTest Lab environment (including formulas, images, artifacts, claiming and un-claiming VMs); determine when to use Accelerated Networking; recommend use of Azure Backup and Azure Site Recovery including support for Linux in Azure Backup and integrating Azure Backup in the VM creation process; recommend when to use availability zones 
+* Design VM deployments by leveraging availability sets, fault domains, and update domains in Azure; 
+* use web app for containers; 
+* design VM Scale Sets; design for compute-intensive tasks using Azure Batch and Azure Batch AI; 
+* define a migration strategy from cloud services; 
+* determine when to use reserved instances; 
+* design for VMs in a DevTest Lab environment (including formulas, images, artifacts, claiming and un-claiming VMs); 
+* determine when to use Accelerated Networking; 
+* recommend use of Azure Backup and Azure Site Recovery including support for Linux in Azure Backup and integrating Azure Backup in the VM creation process; 
+* recommend when to use availability zones 
 ### 1.b Design solutions for serverless computing 
 Use Azure Functions to implement event-driven actions; 
 design data storage solutions for serverless computing; 
