@@ -98,9 +98,11 @@ design for cost, performance, data consistency, availability and business contin
 ### 3.c Design security strategies 
 * Determine when to use network virtual appliances; 
 * design a perimeter network (DMZ); 
-* determine when to use a Web Application Firewall (WAF), Network Security Group (NSG), and virtual network service tunneling; * * organize resources by designing solutions that use service tags 
+* determine when to use a Web Application Firewall (WAF), Network Security Group (NSG), and virtual network service tunneling; 
+* organize resources by designing solutions that use service tags 
 ### 3.d Design connectivity for hybrid applications 
-* Design connectivity to on-premises data from Azure applications using Azure Relay Service, Azure Data Management Gateway for Data Factory, Azure On-Premises Data Gateway, Hybrid Connections, or Azure Web App’s virtual private network (VPN) capability; * * identify constraints for connectivity with VPN; 
+* Design connectivity to on-premises data from Azure applications using Azure Relay Service, Azure Data Management Gateway for Data Factory, Azure On-Premises Data Gateway, Hybrid Connections, or Azure Web App’s virtual private network (VPN) capability; 
+* identify constraints for connectivity with VPN; 
 * identify options for joining VMs to domains 
 
 ## 4. Design Security and Identity Solutions (20-25%) 
@@ -112,7 +114,8 @@ design for cost, performance, data consistency, availability and business contin
 * determine when to use Azure AD Domain Services; 
 * design security for Mobile Apps using AAD 
 ### 4.b Secure resources by using identity providers 
-* Design solutions that use external or consumer identity providers such as Microsoft account, Facebook, Google, and Yahoo; * * * determine when to use Azure AD B2C and Azure AD B2B; 
+* Design solutions that use external or consumer identity providers such as Microsoft account, Facebook, Google, and Yahoo; 
+* determine when to use Azure AD B2C and Azure AD B2B; 
 * design mobile apps using AAD B2C or AAD B2B 
 ### 4.c Design a data security solution 
 * Design data security solutions for Azure services; 
