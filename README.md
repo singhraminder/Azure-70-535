@@ -79,8 +79,8 @@ Below are the resources which I found quite good:
 ### 2.d Design for NoSQL storage 
 * Determine when to use Azure Redis Cache, Azure Table Storage, Azure Data Lake, Azure Search, Time Series Insights; design pipelines for managing recurring jobs 
 ### 2.e Design for CosmosDB storage 
-* Determine when to use MongoDB API, Azure Cosmos DB SQLDocumentDB API, Graph API, Azure Tables API; 
-design for cost, performance, data consistency, availability and business continuity 
+* Determine when to use MongoDB API, Azure Cosmos DB SQL API, Graph API, Azure Tables API; 
+* design for cost, performance, data consistency, availability and business continuity 
 
 ## 3. Design Networking Implementation (15-20%) 
 ### 3.a Design Azure virtual networks 
