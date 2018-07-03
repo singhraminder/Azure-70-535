@@ -12,6 +12,7 @@ Below are the resources which I found quite good:
 6. Youtube channel by John Savill : https://www.youtube.com/user/NTFAQGuy
 7. Youtube channel by ITORIAN : https://www.youtube.com/user/abhimanyukumarvatsa
 8. Youtube Channel by Official Microsoft Azure: https://www.youtube.com/user/windowsazure
+9. Youtube Channel by Cloud Ranger Network : https://www.youtube.com/channel/UCNA6zO3qpCuZR-dUsAi9FGQ
 
 (Over the time, I'll add specific resources / urls / video tutorials for each section in below section)
 
