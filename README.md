@@ -1,8 +1,20 @@
 #  Exam 70-535: Architecting Microsoft Azure Solutions (replaces 70-534) 
 Listing down some note and references which mgiht be helpful for this exam readiness.
 
-
 Candidates for this exam define the appropriate cloud native, cloud migration, and hybrid cloud solutions to meet the required functional, operational, and deployment requirements through the solution lifecycle. Candidates should know the features and capabilities of Azure services to be able to identify tradeoffs and make decisions for designing public and hybrid cloud solutions. 
+
+Below are the resources which I found quite good:
+1. Exam details: https://www.microsoft.com/en-us/learning/exam-70-535.aspx 
+2. Udemy course (70-535 Architecting Microsoft Azure Solutions by Scott Duffy) : https://www.udemy.com/70534-azure/
+3. Microsoft Press Book for this exam: https://www.microsoftpressstore.com/store/exam-ref-70-535-architecting-microsoft-azure-solutions-9781509304721
+4. Cloud Academy Course: https://cloudacademy.com/learning-paths/architecting-microsoft-azure-solutions-70-535-exam-preparation-220/
+5. More Azure related videos at Cloud Academy: https://cloudacademy.com/library/azure/ 
+6. Youtube channel by John Savill : https://www.youtube.com/user/NTFAQGuy
+7. Youtube channel by ITORIAN : https://www.youtube.com/user/abhimanyukumarvatsa
+8. Youtube Channel by Official Microsoft Azure: https://www.youtube.com/user/windowsazure
+
+(Over the time, I'll add specific resources / urls / video tutorials for each section in below section)
+
 
 ## 1. Design Compute Infrastructure (20-25%) 
 ### 1.a Design solutions using virtual machines (VMs) 
