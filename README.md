@@ -13,6 +13,9 @@ Below are the resources which I found quite good:
 7. Youtube channel by ITORIAN : https://www.youtube.com/user/abhimanyukumarvatsa
 8. Youtube Channel by Official Microsoft Azure: https://www.youtube.com/user/windowsazure
 9. Youtube Channel by Cloud Ranger Network : https://www.youtube.com/channel/UCNA6zO3qpCuZR-dUsAi9FGQ
+10. One of the best blog and hands-on labs at: https://mykloud.wordpress.com/
+* Exam readiness  :  https://mykloud.wordpress.com/2018/05/28/architecting-microsoft-azure-solutions-study-lab-exam-70-535/
+* Exam Experience :  https://mykloud.wordpress.com/2018/06/29/70-535-exam-experience/ 
 
 (Over the time, I'll add specific resources / urls / video tutorials for each section in below section)
 
