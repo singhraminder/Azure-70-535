@@ -3,6 +3,8 @@ Listing down some note and references which mgiht be helpful for this exam readi
 
 Candidates for this exam define the appropriate cloud native, cloud migration, and hybrid cloud solutions to meet the required functional, operational, and deployment requirements through the solution lifecycle. Candidates should know the features and capabilities of Azure services to be able to identify tradeoffs and make decisions for designing public and hybrid cloud solutions. 
 
+Important:: You do not have to take the 70-532 or 70-533 before taking the 70-535. However, you will not obtain the MCSA or MCSE without taking the other exams. The order that you take them in does not matter, though.
+
 Below are the resources which I found quite good:
 1. Exam details: https://www.microsoft.com/en-us/learning/exam-70-535.aspx 
 2. Udemy course (70-535 Architecting Microsoft Azure Solutions by Scott Duffy) : https://www.udemy.com/70534-azure/
