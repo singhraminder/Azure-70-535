@@ -18,7 +18,7 @@ Below are the resources which I found quite good:
 10. One of the best blog and hands-on labs at: https://mykloud.wordpress.com/
 * Exam readiness  :  https://mykloud.wordpress.com/2018/05/28/architecting-microsoft-azure-solutions-study-lab-exam-70-535/
 * Exam Experience :  https://mykloud.wordpress.com/2018/06/29/70-535-exam-experience/ 
-
+11. https://azure.microsoft.com/en-us/training/free-online-courses/
 (Over the time, I'll add specific resources / urls / video tutorials for each section in below section)
 
 
