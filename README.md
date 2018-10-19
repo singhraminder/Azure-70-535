@@ -1,3 +1,14 @@
+Urgent :: This exam 70-535 is also retired now by Microsoft and replaced with some new role-based exams.
+
+Please plan for below ones:
+
+AZ-300 : Microsoft Azure Architect Technologies  https://www.microsoft.com/en-us/learning/exam-az-300.aspx
+
+AZ-301 : Microsoft Azure Architect Design        https://www.microsoft.com/en-us/learning/exam-az-301.aspx
+
+AZ-302 : Microsoft Azure Solutions Architect Certification Transition  https://www.microsoft.com/en-us/learning/exam-az-302.aspx
+-> THIS AZ-302 EXAM IS INTENDED ONLY FOR THOSE CANDIDATES WHO HAVE TAKEN EXAM 535: ARCHITECTING MICROSOFT AZURE SOLUTIONS. IF YOU HAVE NOT TAKEN EXAM 535, YOU WILL NOT EARN A CERTIFICATION BY TAKING THIS EXAM. THIS EXAM IS AVAILABLE FOR A LIMITED TIME ONLY AND IS SCHEDULED FOR RETIREMENT ON MARCH 31, 2019.
+
 #  Exam 70-535: Architecting Microsoft Azure Solutions (replaces 70-534) 
 Listing down some note and references which mgiht be helpful for this exam readiness.
 
